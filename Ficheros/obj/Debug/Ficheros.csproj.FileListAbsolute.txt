@@ -1,0 +1,12 @@
+C:\Users\Estudiante\source\repos\Ficheros\Ficheros\bin\Debug\Ficheros.exe.config
+C:\Users\Estudiante\source\repos\Ficheros\Ficheros\bin\Debug\Ficheros.exe
+C:\Users\Estudiante\source\repos\Ficheros\Ficheros\bin\Debug\Ficheros.pdb
+C:\Users\Estudiante\source\repos\Ficheros\Ficheros\obj\Debug\Ficheros.csproj.AssemblyReference.cache
+C:\Users\Estudiante\source\repos\Ficheros\Ficheros\obj\Debug\Ficheros.csproj.SuggestedBindingRedirects.cache
+C:\Users\Estudiante\source\repos\Ficheros\Ficheros\obj\Debug\Ficheros.frmLecturaArchivo.resources
+C:\Users\Estudiante\source\repos\Ficheros\Ficheros\obj\Debug\Ficheros.Properties.Resources.resources
+C:\Users\Estudiante\source\repos\Ficheros\Ficheros\obj\Debug\Ficheros.csproj.GenerateResource.cache
+C:\Users\Estudiante\source\repos\Ficheros\Ficheros\obj\Debug\Ficheros.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\Ficheros\Ficheros\obj\Debug\Ficheros.exe
+C:\Users\Estudiante\source\repos\Ficheros\Ficheros\obj\Debug\Ficheros.pdb
+C:\Users\Estudiante\source\repos\Ficheros\Ficheros\obj\Debug\Ficheros.frmExplorador.resources
